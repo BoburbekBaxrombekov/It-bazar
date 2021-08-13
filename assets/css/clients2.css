@@ -1,0 +1,47 @@
+.post-type-archive-client .page-title-bar-01 {
+    margin-bottom: 0;
+}
+
+.post-type-archive-client .page-content {
+    margin-top: 0;
+    padding-bottom: 100px;
+    margin-bottom: 0;
+}
+
+.post-type-archive-client .simple-footer {
+    background: #252733;
+}
+
+body.post-type-archive-client {
+    background: #f8f8f8;
+}
+
+.client-item.grid-item img {
+    filter: grayscale(100%);
+    display: block;
+    margin: 0 auto;
+    transition: all 0.3s;
+    max-height: 70px;
+    max-width: 100%;
+    opacity: 0.7;
+}
+
+.client_block {
+    overflow: hidden;
+    position: relative;
+    height: 200px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    padding: 2rem;
+}
+
+.client-item.grid-item .client_block:hover img {
+    filter: inherit;
+    opacity: 1;
+}
+
+.post-type-archive-client .page-title-bar-01 .page-title-bar-inner {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}

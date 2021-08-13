@@ -1,0 +1,34 @@
+.post-type-archive-client .page-title-bar-01 .page-title-bar-overlay {
+    background-color: #191b28;
+}
+
+.post-type-archive-client .page-title-bar-01 .heading {
+    color: #fff;
+}
+
+.post-type-archive-client .page-title-bar-01 .insight_core_breadcrumb a {
+    color: #777;
+}
+
+.post-type-archive-client .page-title-bar-01 {
+    margin-bottom: 0;
+}
+
+.post-type-archive-client .page-content {
+    margin-top: 0;
+    background: #191b28;
+    padding-bottom: 100px;
+    margin-bottom: 0;
+}
+
+.post-type-archive-client .page-pagination li>a {
+    color: #9E9E9E;
+}
+
+.post-type-archive-client .page-pagination li .current {
+    border-color: #9E9E9E;
+}
+
+.post-type-archive-client .simple-footer {
+    background: #252733;
+}
